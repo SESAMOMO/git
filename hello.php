@@ -2,7 +2,7 @@
 <html lang="en">
 	<head></head>
 	<body>
-		<div>你好GIT</div>
+		<div style="font-size: 18px; color: red">你好GIT</div>
 
 	</body>
 
